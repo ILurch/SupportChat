@@ -1,0 +1,8 @@
+name: SupportChat
+version: 0.0.2-SNAPSHOT
+author: Lurch
+main: de.lurch.sc.plugin.SupportChat
+
+commands:
+  support:
+    aliases: [sc, supportchat]

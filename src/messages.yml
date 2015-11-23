@@ -1,0 +1,21 @@
+Prefix: '&9SupportChat &8| &f'
+UseDisplayName: true
+
+# Messages
+CommandSupportUserJoin: '&6Du bist jetzt in der Warteschlange.'
+CommandSupportUserLeave: '&6Du hast die Warteschlange verlassen.'
+NoSupportNeeded: '&6Zur Zeit braucht kein Spieler Hilfe'
+UsersInQueue: '&6Zurzeit sind &c%players% &6Spieler in der Warteschlange:'
+WarnAdminUserJoin: '&6%player% hat die SupportChat Warteschlange betreten.'
+WarnAdminUserLeave: '&6%player% hat die SupportChat Warteschlange verlassen.'
+SupportChatActivated: '&6Du bist jetzt im SupportChat mit %player%.'
+SupportChatDeactivated: '&6Der SupportChat mit %player% wurde beendet.'
+PlayerNotOnline: '&6Der Spieler ist nicht online!'
+IsInSupportChatAdmin: '&6Du bist schon in einem SupportChat.'
+IsInSupportChatUser: '&6Der Spieler ist schon in einem SupportChat.'
+YourSelfSupportChat: '&6Du kannst mit dir selbst keinen SupportChat betreten!'
+NoAdminOnline: '&6Zurzeit ist kein Admin online.'
+NoPerms: '&cDu hast keine Rechte dieses Plugin zu nutzen.'
+
+SupportChat:
+  Format: '&8[&5SUPPORT&8] &a%player% &8> &5%message%'
